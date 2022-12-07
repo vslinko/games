@@ -7,7 +7,7 @@
     "lint": "eslint 'public/**/*.ts'"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.30.0",
